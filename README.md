@@ -20,6 +20,5 @@ Details
 - Please replace my values with those of your environment
 - Please refer to my old commit for the hall effect on ESP32
 - Be careful with the php script the exec function is used without checking the values. In a real setting this can affect your security.
-  -> https://www.php.net/manual/fr/function.escapeshellcmd.php
-  -> https://www.php.net/manual/fr/function.escapeshellarg.php
+- https://www.php.net/manual/fr/function.escapeshellcmd.php   https://www.php.net/manual/fr/function.escapeshellarg.php
 
